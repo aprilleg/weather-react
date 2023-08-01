@@ -63,6 +63,8 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <a href="https://github.com/aprilleg/weather-react">Open-source code</a>
+      , by Aprille Guevarra
     </div>
   );
 }
